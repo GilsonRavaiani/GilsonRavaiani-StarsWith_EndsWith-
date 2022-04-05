@@ -1,0 +1,13 @@
+C:\Balta_C#\StartsWith\bin\Debug\netcoreapp3.1\StartsWith.exe
+C:\Balta_C#\StartsWith\bin\Debug\netcoreapp3.1\StartsWith.deps.json
+C:\Balta_C#\StartsWith\bin\Debug\netcoreapp3.1\StartsWith.runtimeconfig.json
+C:\Balta_C#\StartsWith\bin\Debug\netcoreapp3.1\StartsWith.runtimeconfig.dev.json
+C:\Balta_C#\StartsWith\bin\Debug\netcoreapp3.1\StartsWith.dll
+C:\Balta_C#\StartsWith\bin\Debug\netcoreapp3.1\StartsWith.pdb
+C:\Balta_C#\StartsWith\obj\Debug\netcoreapp3.1\StartsWith.csprojAssemblyReference.cache
+C:\Balta_C#\StartsWith\obj\Debug\netcoreapp3.1\StartsWith.AssemblyInfoInputs.cache
+C:\Balta_C#\StartsWith\obj\Debug\netcoreapp3.1\StartsWith.AssemblyInfo.cs
+C:\Balta_C#\StartsWith\obj\Debug\netcoreapp3.1\StartsWith.csproj.CoreCompileInputs.cache
+C:\Balta_C#\StartsWith\obj\Debug\netcoreapp3.1\StartsWith.dll
+C:\Balta_C#\StartsWith\obj\Debug\netcoreapp3.1\StartsWith.pdb
+C:\Balta_C#\StartsWith\obj\Debug\netcoreapp3.1\StartsWith.genruntimeconfig.cache
